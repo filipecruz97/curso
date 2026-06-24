@@ -7,14 +7,15 @@ declare(strict_types = 1);
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <?php include 'inc/head.php'; ?>
-    <?php $config = include('inc/config.php');?>
-    <?php include_once ('inc/greetings.php');?>
+    <?php require 'inc/head.php'; ?>
+    <?php $config = require('inc/config.php');?>
+    <?php require_once ('inc/greetings.php');?>
 
-    <title>Include</title>
+
+    <title>Require</title>
 </head>
 <body>
-   <h1><?= 'Include' ?></h1>
+   <h1><?= 'Require' ?></h1>
 <div>
   <table>
         <thead>
@@ -40,5 +41,3 @@ declare(strict_types = 1);
 </div>
 
 
-</body>
-</html>
