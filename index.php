@@ -4,21 +4,21 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Include e Require</title>
+    <title>Funções</title>
 </head>
 <body>
-    <h1>Include e Require</h1>
+    <h1>Funções Tipadas</h1>
 
     <ul>
         <li>
 
-            <a href="/include.php">Include</a>
+            <a href="30-13-funcoes/exemplo-basico.php">Exemplo Básico</a>
 
         </li>
 
         <li>
 
-            <a href="/require.php">Require</a>
+            <a href="30-13-funcoes/funcao-tipada.php">Função Tipada</a>
 
         </li>
 
